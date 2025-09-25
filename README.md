@@ -1,4 +1,5 @@
-こんにちは。
+T0bbuTのリポジトリににようこそ。
+何卒よろしくお願いいたします。
 
 <!---
 T0bbuT/T0bbuT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
