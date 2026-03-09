@@ -1,6 +1,4 @@
-お立ち寄り頂きありがとうございます。  
-ここに書くべき自己紹介はまだ準備中です🍵  
-何卒よろしくお願い致します。  
+お立ち寄り頂きありがとうございます🍵  
 
 <!---
 T0bbuT/T0bbuT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
